@@ -1,0 +1,42 @@
+body{
+    background-color:  hsl(273, 75%, 66%) ;
+    font-family: 'Kumbh Sans', sans-serif;
+    color: hsl(237, 12%, 33%);
+    font-weight: 400;
+}
+
+.text{
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 10%;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+
+hr{
+    width: 324px;
+}
+
+p{
+    font-family: 'Kumbh Sans', sans-serif;
+    color: hsl(240, 6%, 50%);
+    font-weight: 400;
+}
+
+h1{
+    font-family: 'Kumbh Sans', sans-serif;
+    color: black;
+    font-weight: 700;
+}
+
+.btn:hover{
+    color:  #F47B56;
+}
+
+.arrow{
+    -webkit-transform:rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
